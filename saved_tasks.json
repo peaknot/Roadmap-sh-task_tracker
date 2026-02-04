@@ -1,0 +1,44 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Study",
+            "completed": false,
+            "in_progress": true,
+            "created_at": "01-24 Saturday 18:45:38.424942",
+            "updated_at": "01-24 Saturday 18:52:38.068841"
+        },
+        {
+            "id": 2,
+            "title": "workout",
+            "completed": false,
+            "in_progress": false,
+            "created_at": "01-24 Saturday 18:50:16.234444",
+            "updated_at": "01-24 Saturday 18:50:16.234444"
+        },
+        {
+            "id": 3,
+            "title": "Go buy gorceries",
+            "completed": true,
+            "in_progress": false,
+            "created_at": "01-24 Saturday 18:50:38.824593",
+            "updated_at": "01-24 Saturday 18:52:22.156345"
+        },
+        {
+            "id": 4,
+            "title": "walk the dog",
+            "completed": false,
+            "in_progress": false,
+            "created_at": "01-24 Saturday 18:51:43.312985",
+            "updated_at": "01-24 Saturday 18:51:43.312985"
+        },
+        {
+            "id": 5,
+            "title": "workout",
+            "completed": false,
+            "in_progress": false,
+            "created_at": "01-24 Saturday 18:51:53.444607",
+            "updated_at": "01-24 Saturday 18:51:53.444607"
+        }
+    ]
+}
